@@ -1,0 +1,11 @@
+supply_chain_dbt_dwh:
+  outputs:
+    dev:
+      catalog: supply_chain_db
+      host: 
+      http_path: 
+      schema: 
+      threads: 
+      token: 
+      type: 
+  target: 

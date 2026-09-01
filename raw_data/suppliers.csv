@@ -1,0 +1,11 @@
+supplier_id,supplier_name,location,rating
+S001,Supplier_1,Houston,4.2
+S002,Supplier_2,Seattle,4.42
+S003,Supplier_3,Los Angeles,3.04
+S004,Supplier_4,Seattle,4.94
+S005,Supplier_5,Seattle,4.66
+S006,Supplier_6,Chicago,3.42
+S007,Supplier_7,Los Angeles,3.36
+S008,Supplier_8,Los Angeles,3.37
+S009,Supplier_9,Los Angeles,3.61
+S010,Supplier_10,Seattle,4.05

@@ -1,0 +1,7 @@
+.venv
+.vscode
+logs
+.python-version
+uv.lock
+pyproject.toml
+supply_chain_dbt_dwh/profiles.yml
